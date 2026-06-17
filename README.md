@@ -7,5 +7,7 @@ Liliana!
 TEST
 hi i'm Jorden 
 
+hello, I'm sydney
+
 This is ameya 
 This is Cadence! 
